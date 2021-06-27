@@ -1,0 +1,113 @@
+---
+---
+
+@import "minima";
+
+:root {
+	--s360-main-color: #4A7072;
+	--s360-dark-main-color: #1A3132;
+	--s360-light-main-color: #D0DDDE;
+	--s360-secondary-color: #68606F;
+	--s360-dark-secondary-color: #756F7A;
+	--s360-light-secondary-color: #CCCCCC;
+	--s360-focus-color: #CD884B;
+	--s360-dark-focus-color: #A44D21;
+	--s360-light-focus-color: #E58351;
+	--s360-black-color: #000;
+	--s360-white-color: #fff;
+	--s360-atrisk-color: #f44336;
+	--s360-stretch-color: #2196F3;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+img[alt="logo"] {
+  width: 200px;
+}
+
+img[alt="person"] {
+  width: 500px;
+}
+
+blockquote {
+  font-size: 24px;
+}
+
+td {
+  width: 33%;
+  vertical-align: top;
+  border: none!important;
+}
+
+table {
+  border: none!important;
+}
+
+.site-nav a.current {
+  font-weight: bolder;
+  color: white;
+}
+
+.site-nav {
+  background-color: black;
+}
+
+html {
+  scroll-padding-top: 120px; /* height of sticky header */
+}
+
+.site-header {
+    background-color: black;
+    padding: 30px;
+    position: sticky;
+    top: 0;
+}
+
+.site-footer {
+  background-color: #4A7072;
+  padding: 30px;
+  color: white;
+}
+
+.site-nav .menu-icon svg {
+  fill: white;
+}
+
+.svg-icon {
+  fill: white;
+}
+
+.footer-col-wrapper {
+  color: white;
+}
+
+.footer-col-wrapper a {
+  color: white;
+}
+
+a.page-link:link { text-decoration: none; }
+a.page-link:visited { text-decoration: none; }
+a.page-link:hover { text-decoration: none; }
+a.page-link:active { text-decoration: none; }
+
+.site-nav .page-link {
+    color: white;
+    text-shadow: -.25px -.25px 0 transparent, 
+    .25px .25p transparent;
+}
+
+ a.page-link:hover {
+  text-shadow: -.25px -.25px 0 white, 
+  .25px .25px white;
+}
+
+.wrapper {
+  max-width: 1000px;
+}
+
+.main-menu-item {
+  list-style-type: none;
+  color: white;
+}
