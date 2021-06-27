@@ -9,4 +9,3 @@ menu: Views
 ![large](assets/images/views/flow.png)
 ![large](assets/images/views/throughput.png)
 ![large](assets/images/views/forecast.png)
-
