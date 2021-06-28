@@ -9,4 +9,4 @@ Magnus and Tom have worked together in different ways since 2012. The journey of
 
 Inspired by Magnus, Tom started to make visualizations of dependencies and that resulted in Jira Program Reports. A few years ago both tools had evolved and matured in a way that it made sense to combine them and **Scope360°** was born.
 
-| ![person](assets/images/magnus-siverbrant-700x700.jpeg) *Magnus Siverbrant, Agile Coach, Squeed* | ![person](assets/images/Tom_webb.jpg) *Tom Mårdh, Agile Coach, Aliby* |
+| ![person](assets/images/magnus-siverbrant-700x700.jpeg) *Magnus Siverbrant, RTE, Zenseact* | ![person](assets/images/Tom_webb.jpg) *Tom Mårdh, Agile Coach, Aliby* |
