@@ -1,8 +1,10 @@
 ---
-view: Monte Carlo Simulation
-perpective: Forecast
+name: Monte Carlo Simulation
+perspective: Forecast
 image: forecast.png
 ---
-- Throughput/inflow shows distribution of likely throughput based upon historical data
-- Remaining iterations shows remaining iterations based upon historical data
-- Possibility to work with manual backlog length and focus factor
+<ul>
+  <li>Throughput/inflow shows distribution of likely throughput based upon historical data</li>
+  <li>Remaining iterations shows remaining iterations based upon historical data</li>
+  <li>Possibility to work with manual backlog length and focus factor</li>
+</ul>

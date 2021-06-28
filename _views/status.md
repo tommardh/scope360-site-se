@@ -1,11 +1,13 @@
 ---
-view: Status Report
-perpective: Plan
+name: Status Report
+perspective: Plan
 image: status.png
 ---
-- Status of features based upon status of stories/tasks
-- Features grouped by Program or Project
-- Features grouped by Iteration or Team
-- Hiding features gives an high level status report
-- Issues marked as atRisk will be highlighted 
-- Issues with data quality problem according to selected current iteration will be highlighted
+<ul>
+  <li>Status of features based upon status of stories/tasks</li>
+  <li>Features grouped by Program or Project</li>
+  <li>Features grouped by Iteration or Team</li>
+  <li>Hiding features gives an high level status report</li>
+  <li>Issues marked as atRisk will be highlighted</li>
+  <li>Issues with data quality problem according to selected current iteration will be highlighted</li>
+</ul>

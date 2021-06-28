@@ -1,8 +1,10 @@
 ---
-view: Epic Report
-perpective: Plan
+name: Epic Report
+perspective: Plan
 image: epic.png
 ---
-- Gantt chart like view of the plan
-- How many Jira Epics (Work In Progress) are part of the plan each iteration
-- Intensity of work, darker color means more stories/tasks
+<ul>
+  <li>Gantt chart like view of the plan</li>
+  <li>How many Jira Epics (Work In Progress) are part of the plan each iteration</li>
+  <li>Intensity of work, darker color means more stories/tasks</li>
+</ul>
