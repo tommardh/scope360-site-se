@@ -7,15 +7,27 @@ layout: default
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
   
-    {%- for path in page_paths -%}
-        {%- assign my_page = site.pages | where: "path", path | first -%}
-        {%- if my_page.menu -%}
-        <h1 id="{{my_page.menu}}">{{ my_page.title | upcase }}</h1>
-        <!-- a href="{{ my_page.url | relative_url }}" {% if page.url == my_page.url %} class="page-link current" {% else %} class="page-link" {% endif %}>{{ my_page.menu | upcase | escape }}</a -->
-        {{ my_page.content }}
-        <hr>
-        {%- endif -%}
-    {%- endfor -%}
+        {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.menu -%}
+                <h1 id="{{my_page.menu}}">{{ my_page.title | upcase }}</h1>
+                <!-- a href="{{ my_page.url | relative_url }}" {% if page.url == my_page.url %} class="page-link current" {% else %} class="page-link" {% endif %}>{{ my_page.menu | upcase | escape }}</a -->
+                {{ my_page.content }}
+                {%- if my_page.menu == "Docs" -%}
+                    <h2>Perspectives</h2>
+                    {% for perspective in site.perspectives %}
+                        <li><a href="{{perspective.url | relative_url }}">{{ perspective.name }}</a></li>
+                    {% endfor %}
+                    {%- for c in site.categories -%}
+                        <h2>{{ c[0] }}</h2>
+                        {%- for p in c[1] -%}
+                            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+                        {%- endfor -%}
+                    {%- endfor -%}
+                {%- endif -%}
+                <hr>
+            {%- endif -%}   
+        {%- endfor -%}
     </div>
 
 
