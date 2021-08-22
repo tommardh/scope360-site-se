@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Scope360° Version 2021.08.21"
+date:   2021-08-21 11:36:08 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- Reading of persisted report configurations is now more fault tolerant
+- Updated logic that expands organization filter to include related issues and not all relatives in program board. Relates issues includes all children, all siblings and all ancestors.
+- Corrected calculation that frames current selected iteration in program board
+- Corrected implementation to filter by program when clicking on the progrma title in program board
+- Enhanced filter menu behavior
+- Added translation to issue details
+
+## Jira Enhancements
+
+- Limit size of Jira JQL text box to 300px max. Enables to see search results even when the query is very long.
