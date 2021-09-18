@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Scope360° Version 2021.09.12 <-- Next"
-date:   2021-09-12 21:00:08 +0200
+title:  "Scope360° Version 2021.09.18 <-- Next"
+date:   2021-09-18 18:00:08 +0200
 categories: release-note
 ---
 ## Scope360° Popup
 
 - Links to scope360.eu and to Scope360° release notes now available in popup window
 
-![release-note](/assets/images/release-notes/20210912-01.png)
+![release-note](/assets/images/release-notes/20210918-01.png)
 
 ## Plan Perspective
 
@@ -16,11 +16,11 @@ categories: release-note
 - Issues ar parsed earlier in process to increase loading performance.
 - New dependency board is under development and added to to beta mode. Beta mode is entered by pressing `§`. Press `§` again to get back to normal mode.
 
-![dependency-board](/assets/images/release-notes/20210912-03.png)
+![dependency-board](/assets/images/release-notes/20210918-03.png)
 
 - Avatar limited in size in issue details view
 - Issue link in the title in issue details view now opens url in jira in current tab. All other links to issues opens the issue detail view.
 - Added profiling of loading report from Jira to console
 - You can now press `shift` to include children and ancestors when opening a view in plan perspective from menu
 
-![release-note](/assets/images/release-notes/20210912-02.png)
+![release-note](/assets/images/release-notes/20210918-02.png)
