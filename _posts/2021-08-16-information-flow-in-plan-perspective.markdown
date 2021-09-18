@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Information Flow from a Plan Perspective"
-date:   2021-08-16 13:36:08 +0200
+date:   2021-10-16 13:36:08 +0200
 categories: plan
 ---
 
