@@ -19,3 +19,5 @@ categories: release-note
 ![release-note](/assets/images/release-notes/20210926-04.png)
 
 - Config in chrome storage cache are now compressed and that enables larger configs for the Jira Instance
+
+- Translation in type filter menu corrected
