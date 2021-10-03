@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Next Scope360° Version"
-date:   2021-09-26 16:00:08 +0200
+title:  "Scope360° Version 2021.10.02 <-- Next"
+date:   2021-10-02 17:00:08 +0200
 categories: release-note
 ---
 ## Plan Perspective
