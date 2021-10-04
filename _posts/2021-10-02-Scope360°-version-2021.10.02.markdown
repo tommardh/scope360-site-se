@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scope360° Version 2021.10.02 <-- Next"
+title:  "Scope360° Version 2021.10.02"
 date:   2021-10-02 17:00:08 +0200
 categories: release-note
 ---
@@ -8,15 +8,15 @@ categories: release-note
 
 - Link to Jira issue in issue details view now opens Jira issue in new tab for viewa including links
 
-|![release-note-large](/assets/images/release-notes/20210926-01.png)|![release-note-large](/assets/images/release-notes/20210926-02.png)|
+|![release-note-large](/assets/images/release-notes/20211002-01.png)|![release-note-large](/assets/images/release-notes/20211002-02.png)|
 
 - Clicking a node in the new dependency board now opens the details view and filters based on that issue. _Beta mode is entered by pressing `§`. Press `§` again to get back to normal mode._
 
-![dependency-view](/assets/images/release-notes/20210926-03.png)
+![dependency-view](/assets/images/release-notes/20211002-03.png)
 
 - Shift click tip now available as tooltip
 
-![release-note](/assets/images/release-notes/20210926-04.png)
+![release-note](/assets/images/release-notes/20211002-04.png)
 
 - Config in chrome storage cache are now compressed and that enables larger configs for the Jira Instance
 
