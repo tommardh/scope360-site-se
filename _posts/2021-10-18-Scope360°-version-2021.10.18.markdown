@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Scope360° Version 2021.10.18 <-- Next"
+date:   2021-10-18 23:00:08 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- Enhanced label on dependencies in new dependency view
+
+![release-note-full](/assets/images/release-notes/20211018-01.png)
+
+- Added hover link funtionality in new dependency view
+- Added a more advance behavior to the message functionality in jpr. Click `X` to close it and `Info` to open it and Click `Got it!` to avoid getting that message again.
+
+![release-note-full](/assets/images/release-notes/20211018-02.png)
+
+- Press u to get a shareble url to the current report. It uses Scope360° Redirect Page, [https://scope360.eu/redirect](https://scope360.eu/redirect), in the url and Scope360° can then decode it to the right report. The url is printed in the console.
+
+![release-note-large](/assets/images/release-notes/20211018-03.png)
