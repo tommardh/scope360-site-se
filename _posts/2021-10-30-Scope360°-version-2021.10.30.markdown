@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Scope360° Version 2021.10.30 <-- Next"
+date:   2021-10-30 18:00:08 +0200
+categories: release-note
+---
+## Plan Perspective
+
+-  Added zooming capabilities to new dependency board. Press `+` to zoom in and `-` to zoom out. Zoom in and out in Chrome will make the new dependency board zoom too.  
+
+![release-note-full](/assets/images/release-notes/20211030-01.png)
+
+-  When parents is shown all ancestors are listed, for example in the Tema Board.
+
+![release-note-full](/assets/images/release-notes/20211030-02.png)
+
+- In status report the option to show parent is added.
+
+![release-note-full](/assets/images/release-notes/20211030-03.png)
