@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Scope360° Version 2021.11.07 <-- Next"
+date:   2021-11-07 17:48:08 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- When the node is hovered it will be drawn on top with white background so it is always readable in new dependenct report
+
+![release-note-full](/assets/images/release-notes/20211107-01.png)
+
+- Chart capability added to pivot report in jpr
+
+![release-note-full](/assets/images/release-notes/20211107-02.png)
+
+- It can also be shown with numbers in table view
+
+![release-note-full](/assets/images/release-notes/20211107-03.png)
