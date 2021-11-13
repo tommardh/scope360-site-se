@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Scope360° Version 2021.11.13 <-- Next"
+date:   2021-11-13 15:37:08 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- In Chart view a color code legend is shown in the heatmap matrix.
+- Numbers on top of bar shows actual value.
+
+![release-note-full](/assets/images/release-notes/20211113-01.png)
+
+- Improved behavior changing options in the heatmap view. All should never be empty
+
+![release-note-full](/assets/images/release-notes/20211113-04.png)
+
+- Issue detailed view in Links shows related Jira issues as they look in Jira even if data is not within the dataset that started Links. This detailed issue view works in  a similar way in Confluence.
+
+![release-note-full](/assets/images/release-notes/20211113-02.png)
+
+- Bug corrected that made the Feature report disappear. Now it is available again in the Beta mode. Enter Beta mode by pressing `§` and the first report is the Feature Report. You get back to normal mode by pressing `§` again.
+
+![release-note-full](/assets/images/release-notes/20211113-03.png)
+
+- It is now possible to press `r` to get the default configuration for a report 
+- Dependencies are cleaned up
+
+## Flow Perspective
+
+- Not dependent on JQuery anymore
