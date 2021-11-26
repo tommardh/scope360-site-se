@@ -6,7 +6,7 @@ categories: release-note
 ---
 ## Plan Perspective
 
-- Link to Jira issue in issue details view now opens Jira issue in new tab for viewa including links
+- Link to Jira issue in issue details view now opens Jira issue in new tab for views including links
 
 |![release-note-large](/assets/images/release-notes/20211002-01.png)|![release-note-large](/assets/images/release-notes/20211002-02.png)|
 

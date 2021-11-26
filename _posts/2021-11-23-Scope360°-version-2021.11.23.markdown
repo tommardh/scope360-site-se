@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2021.11.23"
+date:   2021-11-23 16:38:08 +0200
+categories: release-note
+---
+## Plan Perspective/Confluence Enhancement
+
+- Fixes a bug that sometimes generated an error when loading the details view in Confluence or Links
