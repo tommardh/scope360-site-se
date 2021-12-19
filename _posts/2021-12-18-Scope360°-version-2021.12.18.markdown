@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Scope360° Version 2021.12.18 <-- Next"
+date:   2021-12-18 20:28:07 +0200
+categories: release-note
+---
+## Plan Perspective/Confluence Enhancement
+
+- Issue descriptions can be shown for issues directly in the issue detailed view in Links and Confluence by clicking `i` in a black dot
+
+![release-note-full](/assets/images/release-notes/20211218-01.png)
+
+- Popovers can be shown for issues directly in the issue detailed view in Links and Confluence
+
+    - Click issue to open issue detail view
+
+    ![release-note-full](/assets/images/release-notes/20211218-02.png)
+
+    - Click `+` in a black dot to open plan perspective
+
+    ![release-note-full](/assets/images/release-notes/20211218-03.png)
+
+- Highlight related issues on hover by fading out the others
+
+![release-note-full](/assets/images/release-notes/20211218-04.png)
