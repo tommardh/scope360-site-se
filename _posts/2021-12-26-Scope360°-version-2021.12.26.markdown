@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2021.12.26 <-- Next"
+date:   2021-12-21 20:28:07 +0200
+categories: release-note
+---
+## Plan Perspective/Confluence Enhancement
+
+- Issue detailed view in Confluence can now be opened by right-click a Jira issue url
