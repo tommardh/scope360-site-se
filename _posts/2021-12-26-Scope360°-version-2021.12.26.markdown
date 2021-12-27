@@ -7,3 +7,7 @@ categories: release-note
 ## Plan Perspective/Confluence Enhancement
 
 - Issue detailed view in Confluence can now be opened by right-click a Jira issue url
+
+## General
+
+- Scope360° supports Jira cloud again
