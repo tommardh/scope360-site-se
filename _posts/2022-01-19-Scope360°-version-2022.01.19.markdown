@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Scope360° Version 2022.01.19 <-- Next"
+date:   2022-01-19 21:31:10 +0200
+categories: release-note
+---
+## Jira Enhancements
+
+- Bug fix: it is now possible to `Add Stories in Epics` and `Add Issues in Epics` again.
+
+![release-note](/assets/images/release-notes/20220119-01.png)
