@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Scope360° Version 2022.01.21 <-- Next"
+date:   2022-01-21 20:22:33 +0200
+categories: release-note
+---
+## Jira Enhancements
+
+- Bug fix: This dialog no longer appears when the `Refine Query` menu is used.
+
+![release-note](/assets/images/release-notes/20220121-01.png)
