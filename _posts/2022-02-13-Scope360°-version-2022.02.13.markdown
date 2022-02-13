@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Scope360° Version 2022.02.13"
+date:   2022-02-13 15:32:19 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- Translations refactored and much wider implemented
+
+## Jira Enhancements
+
+- Issue family now implemented as a Vue widget
