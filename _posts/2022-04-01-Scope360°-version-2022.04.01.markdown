@@ -8,13 +8,18 @@ categories: release-note
 
 - Added link to jira jql for issues in cell and card in jpr
 
-![release-note-full](/assets/images/release-notes/20220401-01.png)
+    - ![icon](/assets/images/release-notes/20220401-05.png) - All issues in cell in Jira
+    - ![icon](/assets/images/release-notes/20220401-06.png) - All issues on card in Jira
+
 
 - Fixed wrapping problem in issue details view in JPR
 
 ![release-note](/assets/images/release-notes/20220401-02.png)
 
-- Now issues are sorted by rank in jpr
+- Now issues are sorted by rank in jpr - the lines group issues by parent
+
+![release-note-full](/assets/images/release-notes/20220401-01.png)
+
 - Added ability to get rank change log i console by pressing 1 in jpr
 
 ![release-note](/assets/images/release-notes/20220401-03.png)
