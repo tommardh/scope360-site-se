@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Scope360° Version 2022.05.22"
+date:   2022-05-22 13:21:19 +0200
+categories: release-note
+---
+## Jira Enhancements
+
+- Export to CSV - Exports exports to CSV with each Scope360° dimension to a separate column
+
+![release-note-full](/assets/images/release-notes/20220522-01.png)
+
+- Enabled family funtionality in cloud jira
+

@@ -33,3 +33,16 @@ categories: release-note
 - Fix css for + on issues page
 
 ![release-note](/assets/images/release-notes/20220410-04.png)
+
+- Added query builder
+  - Start by selecting wich board to use
+
+  ![release-note](/assets/images/release-notes/20220410-07.png)
+
+  - Select to show/hide the Query Builder
+
+  ![release-note-full](/assets/images/release-notes/20220410-08.png)
+
+  - Use the query builder to build queries based on the quickfilters on the selected board
+
+  ![release-note-full](/assets/images/release-notes/20220410-09.png)
