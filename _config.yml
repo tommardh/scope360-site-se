@@ -27,6 +27,8 @@ url: "https://scope360.eu" # the base hostname & protocol for your site, e.g. ht
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+google_analytics: G-HWWZWTBYDC
+
 # Build settings
 theme: minima
 plugins:
