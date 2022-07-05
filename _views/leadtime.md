@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Lead Time
 perspective: Flow
 image: leadtime.png

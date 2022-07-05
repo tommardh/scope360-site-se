@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Dependency Board
 perspective: Plan
 image: plan.png

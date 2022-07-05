@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Throughput
 perspective: Flow
 image: throughput.png

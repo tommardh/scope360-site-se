@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Status Report
 perspective: Plan
 image: status.png

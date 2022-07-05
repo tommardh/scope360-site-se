@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Monte Carlo Simulation
 perspective: Forecast
 image: forecast.png

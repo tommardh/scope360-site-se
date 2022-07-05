@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Roadmap
 perspective: Plan
 image: roadmap.png

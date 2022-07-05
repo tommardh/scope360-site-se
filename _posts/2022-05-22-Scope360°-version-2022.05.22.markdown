@@ -10,5 +10,5 @@ categories: release-note
 
 ![release-note-full](/assets/images/release-notes/20220522-01.png)
 
-- Enabled family funtionality in cloud jira
+- Enabled family functionality in cloud jira
 

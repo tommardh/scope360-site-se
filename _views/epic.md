@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Epic Report
 perspective: Plan
 image: epic.png

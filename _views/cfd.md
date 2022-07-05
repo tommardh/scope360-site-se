@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Cumulative Flow Diagram
 perspective: Flow
 image: flow.png

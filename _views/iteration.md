@@ -1,4 +1,5 @@
 ---
+layout: view
 name: Iteration Report
 perspective: Flow
 image: iteration.png

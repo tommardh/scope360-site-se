@@ -61,3 +61,5 @@ collections:
     output: true
   posts:
     output: true
+  licenses:
+    output: true
