@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2022.07.03"
-date:   2022-07-03 22:22:22 +0200
+title:  "Scope360° Version 2022.07.05"
+date:   2022-07-05 06:22:22 +0200
 categories: release-note
 ---
 ## Jira Flow Perspective
@@ -10,4 +10,4 @@ categories: release-note
 
 - When a config for the Jira instance is not available in the Scope360° config server, Scope360° Light is presented. Initially it contains the same functionality as Jira Flow Companion.
 
-![release-note-full](/assets/images/release-notes/20220703-01.png)
+![release-note-full](/assets/images/release-notes/20220705-01.png)
