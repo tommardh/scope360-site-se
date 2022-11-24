@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Scope360° Version 2022.11.23"
+date:   2022-11-23 18:22:21 +0200
+categories: release-note
+---
+This version contains a mix of upgrades, refactories, bug fixes and new funtionality.
+
+## Jira Enhancements
+
+- Make querys find children linked with new parent link
+
+## Jira Plan Perspective
+
+- Made css update so issue type icons always are size 16px
+- Updated to dynamic row heigts in new dependency graph
+
+![release-note-full](/assets/images/release-notes/20221123-01.png)
+
+- Added a frame to highlight which issue that shows details in JPR
+
+![release-note-full](/assets/images/release-notes/20221123-02.png)
+
+- Hierarchy level support
+- Updated default settings cor the status report in Jpr. Top parents added.
+
+![release-note-full](/assets/images/release-notes/20221123-03.png)
+
+- Added hierarchy level to grouping options in jpr
+
+![release-note-full](/assets/images/release-notes/20221123-04.png)
