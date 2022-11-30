@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2022.11.28 <--- Next"
-date:   2022-11-28 18:22:21 +0200
+title:  "Scope360° Version 2022.11.28"
+date:   2022-11-28 18:20:14 +0200
 categories: release-note
 ---
 ## Jira Plan Perspective
