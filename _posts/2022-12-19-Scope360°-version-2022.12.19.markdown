@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Scope360° Version 2022.12.19 <-- Next"
+date:   2022-12-19 08:20:14 +0200
+categories: release-note
+---
+## Jira Plan Perspective
+
+- Implemented configurable issue colors in new dependency board in jpr
+- Updated handling of grouping and filter
