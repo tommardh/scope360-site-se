@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2023.01.05 <-- Next"
+date:   2023-01-05 09:27:14 +0200
+categories: release-note
+---
+## Jira Plan Perspective
+
+- Corrected bug that sometimes showed an empty page report.
