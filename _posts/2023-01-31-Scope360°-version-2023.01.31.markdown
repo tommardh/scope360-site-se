@@ -10,8 +10,41 @@ categories: release-note
 
 ## Jira Enhancements
 
-- 1st version of custom exports
+- 1st version of custom exports. Will appear in the `Export` menu if there exists a config for it in local storage with key `s360-custom-issue-export-config`.
+
+![release-note-full](/assets/images/release-notes/20230131-02.png)
+
+Example of a config file for custom exports:
+
+```text
+[
+    {
+        “name”:“PI22.49 PD Priority”,
+        “sortBy”:[“rank”],
+        “fields”:[
+            “id”,
+            “summary”,
+            “program”,
+            “iteration”
+        ],
+        “outputFormat”:“csv”
+    },
+    {
+        “name”:“PI22.49 PD List”,
+        “sortBy”:[“id”,“program”],
+        “fields”:[
+            “id”,
+            “summary”,
+            “program”,
+            “iteration”
+        ],
+        “outputFormat”:“csv”
+    }
+]
+```
 
 ## Jira Plan Perspective
 
 - Added new scroll behavior in new dependency board. Scroll using the `UP` and `DOWN` keys.
+
+![release-note-full](/assets/images/release-notes/20230131-01.png)
