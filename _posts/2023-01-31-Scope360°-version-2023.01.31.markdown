@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Scope360° Version 2023.01.31 <-- Next"
+date:   2023-01-31 22:07:22 +0200
+categories: release-note
+---
+
+Updated to manifest version 3 for Scope360°
+
+## Jira Enhancements
+
+- 1st version of custom exports
+
+## Jira Plan Perspective
+
+- Added new scroll behavior in new dependency board. Scroll using the `UP` and `DOWN` keys.
