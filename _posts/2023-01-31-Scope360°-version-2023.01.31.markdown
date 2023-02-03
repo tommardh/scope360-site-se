@@ -19,26 +19,26 @@ Example of a config file for custom exports:
 ```text
 [
     {
-        “name”:“PI22.49 PD Priority”,
-        “sortBy”:[“rank”],
-        “fields”:[
-            “id”,
-            “summary”,
-            “program”,
-            “iteration”
+        "name":"Priority List",
+        "sortBy":["rank"],
+        "fields":[
+            "id",
+            "summary",
+            "program",
+            "iteration"
         ],
-        “outputFormat”:“csv”
+        "outputFormat":"csv"
     },
     {
-        “name”:“PI22.49 PD List”,
-        “sortBy”:[“id”,“program”],
-        “fields”:[
-            “id”,
-            “summary”,
-            “program”,
-            “iteration”
+        "name":"Program List",
+        "sortBy":["id","program"],
+        "fields":[
+            "id",
+            "summary",
+            "program",
+            "iteration"
         ],
-        “outputFormat”:“csv”
+        "outputFormat":"csv"
     }
 ]
 ```
