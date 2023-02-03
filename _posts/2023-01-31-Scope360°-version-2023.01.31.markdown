@@ -12,7 +12,7 @@ categories: release-note
 
 - 1st version of custom exports. Will appear in the `Export` menu if there exists a config for it in local storage with key `s360-custom-issue-export-config`.
 
-![release-note-full](/assets/images/release-notes/20230131-02.png)
+![release-note](/assets/images/release-notes/20230131-02.png)
 
 Example of a config file for custom exports:
 
