@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2023.03.26 <-- Next"
-date:   2023-03-26 11:26:20 +0200
+title:  "Scope360° Version 2023.04.02 <-- Next"
+date:   2023-04-02 11:26:20 +0200
 categories: release-note
 ---
 
@@ -10,19 +10,19 @@ categories: release-note
 - When the component below is shown in Jira the siblings and children are now sorted, assignee is shown if set and
 the issue shown/selected are highlighted with a frame in the siblings section.
 
-![release-note](/assets/images/release-notes/20230326-01.png)
+![release-note](/assets/images/release-notes/20230402-01.png)
 
 - [custom issue export](/release-note/2023/01/31/Scope360-version-2023.01.31.html) functionality now logs warnings if there are problems with the config - If you try to set up a config you will get feedback in the console if the config is not an array or not a valig JSON.
 
-![release-note-full](/assets/images/release-notes/20230326-02.png)
+![release-note-full](/assets/images/release-notes/20230402-02.png)
 
 - [custom issue export](/release-note/2023/01/31/Scope360-version-2023.01.31.html) now includes link to issues if `outputFormat` is set to `html`.
 
-![release-note](/assets/images/release-notes/20230326-03.png)
+![release-note](/assets/images/release-notes/20230402-03.png)
 
 - License logic for Menu bar in jira enhancements to support different [licenses](/#Licences). This can be configured in a config and clicking the orange field gets you to a page with more information.
 
-![release-note-full](/assets/images/release-notes/20230326-05.png)
+![release-note-full](/assets/images/release-notes/20230402-05.png)
 
 ## Plan Perspective
 
@@ -30,13 +30,10 @@ the issue shown/selected are highlighted with a frame in the siblings section.
 - Issue fields are added to issue details view and the issues are sorted in the same way as in issue details views in other parts of Scope360°.
 - Left issuebar made more bold so it is clearer where one issue starts and another ends.
 
-![release-note](/assets/images/release-notes/20230326-04.png)
+![release-note](/assets/images/release-notes/20230402-04.png)
 
 - Statuscategory coloring is now more solid, including in Links - Sometimes issues appeared black in Links or status appeared without color.
 
-## Flow perspective
-
-- Flow reports can now be reloaded in the browser without breaking.
 
 ## Generic
 
