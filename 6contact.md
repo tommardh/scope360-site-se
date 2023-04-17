@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 menu: Contact
 ---
-If you have any question or want to contact us, sen an email to **[SCOPE360.DEV@GMAIL.COM](mailto:SCOPE360.DEV@GMAIL.COM)**
+If you have any question or want to contact us, sen an email to **[SUPPORT@SCOPE360.EU](mailto:support@scope360.eu)**
 
 Magnus and Tom have worked together in different ways since 2012. The journey of Scope360° started with a Chrome extension written by Magnus to enhance visualization in TFS and that work transformed into Jira Flow Companion.
 
