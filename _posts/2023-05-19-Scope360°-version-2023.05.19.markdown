@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Scope360° Version 2023.05.19 <--- Next"
+date:   2023-05-19 11:26:20 +0200
+categories: release-note
+---
+## Jira Enhancements
+
+- In the family detail component `Siblings` is represented as `Me` if there are no siblings.
+
+![release-note](/assets/images/release-notes/20230519-01.png)
+
+## Plan Perspective
+
+- Previously it was possible to press `SHIFT` while opening a report in the Analyze Plan menu to include all children and ancestors in the report. Now it is possible to also press `ALT` to get linked issues included
+
+## Flow Perspective
+
+- It is now possible to reload reports in flow perspective in the browser without loosing settings.
+
+## Generic
+
+- Scope360° manifest now includes unlimitedStoragePermission to make the application future proof when it comes to caching and configs.
