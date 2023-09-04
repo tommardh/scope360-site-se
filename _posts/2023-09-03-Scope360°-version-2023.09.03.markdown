@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Scope360° Version 2023.09.03 <-- Next"
+date:   2023-09-03 20:22:12 +0200
+categories: release-note
+---
+# License Information
+
+License information is now displayed in the same way in the different perspectives of Scope360°.
+
+![release-note-full](/assets/images/release-notes/20230903-01.png)
+
+![release-note-full](/assets/images/release-notes/20230903-02.png)
+
+![release-note-full](/assets/images/release-notes/20230903-03.png)
+
+![release-note-full](/assets/images/release-notes/20230903-04.png)
+
+## Jira Enhancements
+
+- User Messages will also be displayed above the main Scope360° menu if available. The messages is written in the config in a simplified markdown format.
+
+![release-note-full](/assets/images/release-notes/20230903-05.png)
+
+- If a text containing issue keys is copied it can be pasted as a issue key query.
+
+![release-note](/assets/images/release-notes/20230903-06.png)
+
+- Custom issue export write to clipboard on SHIFT click.
+
+## Confuence Enhancements
+
+- Issue details view now works again.
+
+![release-note-full](/assets/images/release-notes/20230903-07.png)
+
+## Generic
+
+- Small bugfixes and many refactories of Scope360°.
