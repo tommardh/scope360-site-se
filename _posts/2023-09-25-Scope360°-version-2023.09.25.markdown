@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Scope360° Version 2023.09.25 <-- Next release"
+date:   2023-09-25 17:21:55 +0200
+categories: release-note
+---
+
+## Minor release
+
+This release is a minor one and contains
+
+- some refactories and bug fixes
+- Goggle Analytics is added to improve understanding of how Scope360° is used
