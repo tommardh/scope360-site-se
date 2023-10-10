@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Scope360° Version 2023.10.10 <--- Next Release"
+date:   2023-10-10 18:36:12 +0200
+categories: release-note
+---
+
+## Minor release
+
+This release is a minor one and contains
+
+- Scope360° now supports updated modern jira cloud UI
+- some refactories and bug fixes
+- Sentry for error monitoring is removed from Scope360°
