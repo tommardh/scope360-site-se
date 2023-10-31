@@ -9,4 +9,4 @@ Sometimes it's hard to see the forest for all trees and sometimes we need to be 
 
 > Scope360° helps us look at the forest or part of the forest from different perspectives.
 
-| ![medium](assets/images/Fjallnara_skog._Lappland_Sverige.jpg) Forest | ![medium](assets/images/tree-nature-forest-grass-plant-sunlight-948746-pxhere.com.jpg) Trees | ![medium](assets/images/tree-branch-light-plant-sunlight-leaf-547527-pxhere.com.jpg) Leaves |
+| ![medium](assets/images/forest-1000-650.jpg) Forest | ![medium](assets/images/trees-1000-650.jpg) Trees | ![medium](assets/images/leaves-1000-650.jpg) Leaves |
