@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Scope360° Version 2023.11.12 <-- Next version"
-date:   2023-11-12 14:14:23 +0200
+title:  "Scope360° Version 2023.11.16 <-- Next version"
+date:   2023-11-16 14:14:23 +0200
 categories: release-note
 ---
 ## Jira Enhancement
 
 - Family detail widget semi transparent when ticket done
 
-![release-note-large](/assets/images/release-notes/20231112-01.png)
+![release-note-large](/assets/images/release-notes/20231116-01.png)
 
 - Remote issues in another Jira instance can be visualized in the content scripts
 - Bug fixed: Issue export made custom config overwrite the stored config
@@ -19,9 +19,9 @@ categories: release-note
 - Bug fixed: Translation in advanced filter in JPR were not correct
 - Issue row is now semitransparent when status is done
 
-![release-note-large](/assets/images/release-notes/20231112-04.png)
+![release-note-large](/assets/images/release-notes/20231116-04.png)
 
-| ![release-note-large](/assets/images/release-notes/20231112-02.png) | ![release-note-large](/assets/images/release-notes/20231112-03.png) |
+| ![release-note-large](/assets/images/release-notes/20231116-02.png) | ![release-note-large](/assets/images/release-notes/20231116-03.png) |
 
 - Parent-child dependencies are now ok if they do not create circular dependencies. If a circular dependency is found, one parent-child relationship is removed.
 - Removed unused rights from Scope360° manifest
