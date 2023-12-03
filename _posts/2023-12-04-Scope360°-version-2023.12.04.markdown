@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Scope360° Version 2023.12.04 <-- Next"
+date:   2023-12-03 23:10:23 +0200
+categories: release-note
+---
+
+## Jira & Confluence enhancements
+
+The areas of improvements are affecting mainly the enhancements in the Jira and Confluence that are implemented in Scope360°:
+
+- Several bug fixes
+- Enhancements of visualizations in the issue details views and family view
+- Enhancement to custom export that now translates property names if translation is available
+- Remote issues i Issue details vyn
+- Dependencies to lodash remoced from production code
