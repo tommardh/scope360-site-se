@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Scope360° Version 2024.01.06 <-- Next"
+date:   2024-01-06 10:29:11 +0200
+categories: release-note
+---
+## Generic
+
+- Supports new board config api. Jira Cloud supported again.
+- Refactories to make Scope360° more maintainable
+
+## Jira Enhancements
+
+- Clearer representation of issue field values on nested issue cards
+
+![release-note-large](/assets/images/release-notes/20240106-01.png)
+
+- Corrected bug that made headers and values to be misaligned in csv export
+- Export as csv via [custom issue export](/release-note/2023/01/31/Scope360-version-2023.01.31.html) added. Config example:
+
+```javascript
+    {
+        name: 'PI22.49 PD Priority',
+        sortBy: ['id', 'program'],
+        fields: ['id', 'program', 'iteration'],
+        outputFormat: 'csv',
+    };
+```
+
+## Plan Perspective
+
+- Viz migrated to till vue3
+- Removed flickering in Analyze Flow button
+- Corrected config service to support hosts with port again
+- Scope360° menu now available on issues page in Jira Cloud showing issue opened from search result
