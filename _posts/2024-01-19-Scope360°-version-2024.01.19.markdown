@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2024.01.19"
+date:   2024-01-19 07:02:52 +0200
+categories: release-note
+---
+## General
+
+- Improved error handling of Remote twin when not logged in
