@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2024.03.07 <-- Next"
+date:   2024-03-07 15:43:44 +0200
+categories: release-note
+---
+## General
+
+- Enhanced robustness of config handling
