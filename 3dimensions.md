@@ -9,4 +9,4 @@ With different dimensions such as purpose, organization and time, the opportunit
 
 It is the connection of JIRA issues to these dimensions that identifies a scope that can be visualized in Scope360°.
 
-The dimensions can be implemented in JIRA in different ways and usually some of them already exist. Scope360° does not depend on the dimensions being set in a special way in JIRA.
+The dimensions can be implemented in JIRA in different ways and usually some of them already exist. Scope360° does not depend on the dimensions being set in a special way in JIRA. See [Dimensions View](/views/dimensions.html) for en example of dimensions.
