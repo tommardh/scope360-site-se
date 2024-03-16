@@ -20,7 +20,7 @@ the issue shown/selected are highlighted with a frame in the siblings section.
 
 ![release-note](/assets/images/release-notes/20230402-03.png)
 
-- License logic for Menu bar in jira enhancements to support different [licenses](/#Licenses). This can be configured in a config and clicking the orange field gets you to a page with more information.
+- License logic for Menu bar in jira enhancements to support different [licenses](/#Products). This can be configured in a config and clicking the orange field gets you to a page with more information.
 
 ![release-note-full](/assets/images/release-notes/20230402-05.png)
 

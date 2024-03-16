@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Scope360° Version 2024.03.16 <-- Next version"
+date:   2024-03-16 15:51:44 +0200
+categories: release-note
+---
+## General
+
+- Several refactorings and bug fixes
+
+## Jira perspective
+
+- Small enahncement in family detail adds space between icon and text
+- Translation is added to `Alanyze Plan` menu in cs menu
+
+![release-note](/assets/images/release-notes/20240316-01.png)
+
+## Plan Perspective
+
+- Scope360° Personal is introduced. This means that a default config is used when there is no config available for the specific Jira Instance. [About dimensions](/views/dimensions.html) is available in the menu. This view describes some of the dimensions used and how they are configured.
+
+![](/assets/images/release-notes/20240316-02.png)
+
+- Translations added to the [About dimensions](/views/dimensions.html) view.
+

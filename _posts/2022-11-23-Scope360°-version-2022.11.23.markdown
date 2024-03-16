@@ -22,7 +22,7 @@ This version contains a mix of upgrades, refactories, bug fixes and new funtiona
 ![release-note-full](/assets/images/release-notes/20221123-02.png)
 
 - Hierarchy level support
-- Updated default settings cor the status report in Jpr. Top parents added.
+- Updated default settings for the status report in Jpr. Top parents added.
 
 ![release-note-full](/assets/images/release-notes/20221123-03.png)
 
