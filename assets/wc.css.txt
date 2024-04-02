@@ -12,4 +12,4 @@ a.js-quickfilter-button[title^='fixversion ']{
 a.js-quickfilter-button[title^='labels ']{
     color:black;
     background-color:#ccccff  ;
-} 
+}
