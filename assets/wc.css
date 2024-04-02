@@ -13,3 +13,13 @@ a.js-quickfilter-button[title^='labels ']{
     color:black;
     background-color:#ccccff  ;
 }
+
+a.js-quickfilter-button[title^='sprint ']{
+    color:black;
+    background-color:#ccffff  ;
+}
+
+a.js-quickfilter-button[title^='components ']{
+    color:black;
+    background-color:#ffffcc  ;
+}
