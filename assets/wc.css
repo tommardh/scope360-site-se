@@ -1,0 +1,15 @@
+
+a.js-quickfilter-button[title^='issuetype ']{
+    color:black;
+    background-color:#ccffcc  ;
+} 
+    
+a.js-quickfilter-button[title^='fixversion ']{
+    color:black;
+    background-color:#ffccff  ;
+} 
+
+a.js-quickfilter-button[title^='labels ']{
+    color:black;
+    background-color:#ccccff  ;
+} 
