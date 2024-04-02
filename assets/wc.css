@@ -19,7 +19,17 @@ a.js-quickfilter-button[title^='sprint ']{
     background-color:#ccffff  ;
 }
 
-a.js-quickfilter-button[title^='components ']{
+a.js-quickfilter-button[title^='component ']{
     color:black;
     background-color:#ffffcc  ;
+}
+
+a.js-quickfilter-button[title^='key ']{
+    color:black;
+    background-color:#ffcccc  ;
+}
+
+a.js-quickfilter-button[title^='status ']{
+    color:black;
+    background-color:#cccccc  ;
 }
