@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Scope360° Version 2024.04.03 <-- Next"
+date:   2024-04-03 17:19:41 +0200
+categories: release-note
+---
+## General
+
+- Bug fix to support non Latin1 characters using base64 encoding. This allows to open reports built on a jql using non Latin1 characters.
+
+![release-note](/assets/images/release-notes/20240403-01.png)
