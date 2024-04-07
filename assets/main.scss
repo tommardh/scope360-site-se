@@ -78,9 +78,13 @@ html {
 }
 
 .site-footer {
-  background-color: #4A7072;
+  background-color: #51bbb4;
   padding: 30px;
   color: white;
+}
+
+.header-logo {
+  padding-left: 40px;
 }
 
 .site-nav .menu-icon svg {
@@ -131,7 +135,7 @@ a.page-link:active { text-decoration: none; }
 }
 
 .button {
-  border-color: #4A7072;
+  border-color: #51bbb4;
   padding: 5px;
   border-style: solid;
   border-radius: 4px;
