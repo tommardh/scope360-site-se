@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Scope360° Version 2024.04.10 <-- Next"
+date:   2024-04-10 21:54:53 +0200
+categories: release-note
+---
+## General
+
+- New Scope360° log and icon in extension
+
+![logo](/assets/images/logos/scope360logo.svg)
+
+## Confluence perspective
+
+- If a text containing issue keys, is copied, it can be pasted as a issue key query. This update provides a better filter for valid keys pasted. Can be used to select a part of a Confluence page containing links to Jira issues, copy and then use Scope360° to paste as issuekey query.
+
+![release-note](/assets/images/release-notes/20230903-06.png)
