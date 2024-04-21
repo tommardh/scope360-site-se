@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Scope360°
-email: scope360.dev@gmail.com
+email: info@scope360.se
 description: >- # this means to ignore newlines until "baseurl:"
   Scope360° is a tool that visualizes plans, flow and forecasts in Jira from different perspectives.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scope360.eu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scope360.se" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

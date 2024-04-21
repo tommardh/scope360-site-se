@@ -9,4 +9,5 @@ Sometimes it's hard to see the forest for all trees and sometimes we need to be 
 
 > Scope360° helps us look at the forest or part of the forest from different perspectives.
 
-| ![medium](assets/images/Forest-1500x1500.jpg) Forest | ![medium](assets/images/Trees-1500x1500.jpg) Trees | ![medium](assets/images/Leaves-1500x1500.jpg) Leaves |
+| ![medium](assets/images/Forest-1500x1500.jpg) | ![medium](assets/images/Trees-1500x1500.jpg) | ![medium](assets/images/Leaves-1500x1500.jpg) |
+| **Forest** | **Trees** | **Leaves** |
