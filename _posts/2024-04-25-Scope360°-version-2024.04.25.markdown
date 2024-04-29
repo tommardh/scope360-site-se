@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Scope360° Version 2024.04.25 <-- Next"
+date:   2024-04-25 14:51:23 +0200
+categories: release-note
+---
+## Plan Perspective
+
+- The query used when opening a view in plan perspective from menu can be modified to include one level of linked issues by pressing `<ALT>` and to include all children and ancestors by pressing `<SHIFT>`.
+
+![release-note-large](/assets/images/release-notes/20240425-01.png)
+
+- The behavior above can be used to make more detailed modifications to query used when opening the Plan Perspective from the Jira Search View. The example below includes one level of linked ussues and all children. The jql expansion should be given between `{`and `}`.
+
+![release-note-large](/assets/images/release-notes/20240425-02.png)
+
+The implementes jql expansions are:
+
+- L - Linked Issues
+- C - Child Issues
+- T - Trace Ancestors
+- S - Toggles if Sub-tasks should be included in coming jql expansions or not.
+
+Uppercase versions of the jql expansions are recursive and the lowercase versions are only executed once.
+
+`{lclT}` means that
+
+1. One level of inked issues will be added
+2. One level of child issues will be added
+3. One level of linked issues will be added
+4. All levels of ancestors will be added
+
+Will be added to issues defined by the original jql query when choosing `Analyze Plan`.
