@@ -6,6 +6,20 @@ layout: default
 <img src="/assets/images/logos/{{page.image}}" width="30%" heigth="auto" alt="x">
 <h1> </h1>
 <p>{{ page.summary }}</p>
+
+{% if page.video %}
+<iframe 
+    width="560"
+    height="315"
+    src="{{ page.video }}"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
+{% endif %}
+
 <hr \>
 <p>{{ page.content }}</p>
 

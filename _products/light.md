@@ -2,6 +2,7 @@
 layout: product
 name: Scope360° Light
 image: Scope360LogoLight-600x275.svg
+video: https://www.youtube.com/embed/6vPtiBywWnk?si=PpZy7MlCWTxX7ZI5
 summary: Contains the Flow and Forecast perspectives from a Jira board. The functionality available in Jira Flow Companion has always been part of Scope360° and is now available to everyone through Scope360° Light
 ---
 

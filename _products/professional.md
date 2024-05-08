@@ -2,6 +2,7 @@
 layout: product
 name: Scope360° Professional
 image: Scope360LogoProfessional-600x275.svg
+video: https://www.youtube.com/embed/4hyxqBZChPk?si=XNa6tLh8gcUxfRt6
 summary: Scope360° Professional provides Scope360° functionality to users without the need for a enterprise config.
 ---
 # Dear user of Scope360° Professional,
