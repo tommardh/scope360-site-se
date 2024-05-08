@@ -8,7 +8,7 @@ categories: release-note
 - Updated to Manifest version 3 for Scope360°.
 - Several bug-fixes.
 
-## Jira Enhancements
+## Jira Enhancements - Custom Exports
 
 - 1st version of custom exports. Will appear in the `Export` menu if there exists a config for it in local storage with key `s360-custom-issue-export-config`.
 
@@ -43,7 +43,7 @@ Example of a config file for custom exports:
 ]
 ```
 
-## Jira Plan Perspective
+## Jira Plan Perspective - Dependency Board
 
 - Added new scroll behavior in new dependency board. Scroll using the `UP` and `DOWN` keys.
 
