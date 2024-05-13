@@ -37,3 +37,7 @@ a.js-quickfilter-button[title^='status']{
 .ghx-issue:hover {
     background-color: #caeae8!important;
 }
+
+.ghx-issue-compact:hover {
+    background-color: #caeae8!important;
+}
