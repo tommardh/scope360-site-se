@@ -1,0 +1,39 @@
+
+a.js-quickfilter-button[title^='issuetype ']{
+    color:black;
+    background-color:#ccffcc  ;
+} 
+    
+a.js-quickfilter-button[title^='fixversion ']{
+    color:black;
+    background-color:#ffccff  ;
+} 
+
+a.js-quickfilter-button[title^='labels ']{
+    color:black;
+    background-color:#ccccff  ;
+}
+
+a.js-quickfilter-button[title^='sprint ']{
+    color:black;
+    background-color:#ccffff  ;
+}
+
+a.js-quickfilter-button[title^='component']{
+    color:black;
+    background-color:#ffffcc  ;
+}
+
+a.js-quickfilter-button[title^='key ']{
+    color:black;
+    background-color:#ffcccc  ;
+}
+
+a.js-quickfilter-button[title^='status']{
+    color:black;
+    background-color:#be8cf7  ;
+}
+
+.ghx-issue.ghx-selected:hover {
+    background: #caeae8!important;
+}
