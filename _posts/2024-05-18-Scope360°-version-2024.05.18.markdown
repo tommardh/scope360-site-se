@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Scope360° Version 2024.05.18"
+date:   2024-05-18 10:44:11 +0200
+categories: release-note
+---
+## Generic
+
+- Graphics updated with a new color scheme
+
+![release-note-full](/assets/images/release-notes/20240518-02.png)
+
+- Bug corrected in config post processor that makes it possible to clear a value
+
+## Plan Perspective
+
+- About Config shown in menu for Scope360° Professional
+
+![release-note-full](/assets/images/release-notes/20240518-03.png)
+
+- Links zoom functionality corrected
+
+![release-note-full](/assets/images/release-notes/20240518-01.png)
