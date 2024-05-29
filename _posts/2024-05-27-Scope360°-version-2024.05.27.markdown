@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Scope360° Version 2024.05.27 <-- Next"
+date:   2024-05-18 10:44:11 +0200
+categories: release-note
+---
+This release upgrades **Flow Companion for Jira** to **Scope360 for Jira**. 
+
+Information about this change: [**Scope360° Light**](/products/light.html)[^1]<br/>
+For installation: **[Chrome Web Store](https://chrome.google.com/webstore/detail/flow-companion-for-jira/kbppfmkmcilakibigimbnohnbefifaao)**
+
+
+[^1]: Flow Companion for Jira is also known as Scope360° Light
