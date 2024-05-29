@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2024.05.27 <-- Next"
-date:   2024-05-18 10:44:11 +0200
+title:  "Scope360° Version 2024.05.27"
+date:   2024-05-27 101:44:11 +0200
 categories: release-note
 ---
 This release upgrades **Flow Companion for Jira** to **Scope360 for Jira**. 
