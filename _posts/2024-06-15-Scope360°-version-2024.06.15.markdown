@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Scope360° Version 2024.06.15 <-- Next"
+date:   2024-06-15 16:49:33 +0200
+categories: release-note
+---
+## Generic
+
+- Updated message feature with graphical profile. When a message appers it looks like in the image below. Click on `X` to mnimize the message. The message can then be expanded again by clicking on `Info (i)`. Click `Got It`, if you want to get rid of this message and not show it again.
+
+![release-note-full](/assets/images/release-notes/20240615-01.png)
+
+- Family detail component is moved into issue details section in order to avoid visualization problems in some cases.
+
+![release-note-full](/assets/images/release-notes/20240615-02.png)
+
+- Minor bug correction
