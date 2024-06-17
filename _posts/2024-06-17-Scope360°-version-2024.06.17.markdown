@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2024.06.17 <-- Next"
+date:   2024-06-17 13:28:45 +0200
+categories: release-note
+---
+## Flow Perspective
+
+- Analyze Flow works again!
