@@ -4,7 +4,9 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
 
-{{page.categories}}
+{% if page.categories contains "release-note" %}
+    {{page.categories}}
+{% endif %}
 
 {{ content }}
 
