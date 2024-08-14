@@ -3,15 +3,17 @@ layout: default
 ---
 
 <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.name | escape }}</h1>
-    <div id="view-menu">
+  <h1 class="post-title p-name" itemprop="name headline">View - {{ page.name | escape }}</h1>
+  <p>Part of <a href="/perspectives/{{page.perspective}}.html">{{page.perspective}} Perspective</p></a>
+  <h2>Views</h2>
+  <div id="view-menu">
     {% for view in site.views %}
-    <div class="button"><a href="{{view.url | relative_url }}">{{ view.name }}</a></div>
-   {% endfor %}
-    </div>
-  </header>
-
-<!-- h1>{{ page.name }}</h1 --> 
+      {%- if view.perspective == page.perspective -%}
+        <div class="button"><a href="{{view.url | relative_url }}">{{ view.name }}</a></div>
+      {%- endif -%}
+    {% endfor %}
+  </div>
+</header>
 
 <img src="/assets/images/views/{{page.image}}" width="auto" heigth="auto" alt="x">
 <p>This view visualizes</p>

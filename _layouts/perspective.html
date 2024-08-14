@@ -1,52 +1,45 @@
 ---
 layout: default
 ---
-
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.name | escape }}</h1>
-    <div id="view-menu">
-    {% for perspective in site.perspectives %}
-    <div class="button"><a href="{{perspective.url | relative_url }}">{{ perspective.name }}</a></div>
-   {% endfor %}
+    <h1 class="post-title p-name" itemprop="name headline">Perspective - {{ page.name | escape }}</h1>
+    <div id="perspective-menu">
+      {% for perspective in site.perspectives %}
+        <div class="button"><a href="{{perspective.url | relative_url }}">{{ perspective.name }}</a></div>
+      {% endfor %}
     </div>
   </header>
   
-  <!-- table>
-  <tr class="columns-container">
-    <td class="column-content post-content e-content" itemprop="articleBody" -->
-      <!-- h1>{{ page.name }}</h1 -->
-      <p>
-        {{ page.summary}}
-      </p>
+  <p>
+    {{ page.summary}}
+  </p>
+
+  <h2>Views</h2>
+  <p>
+    <div id="view-menu">
       {% for view in site.views %}
-
-      {%- if view.perspective == page.name -%}
-
-        <h2>{{ view.name }}</h2>
-        <img src="/assets/images/views/{{view.image}}" width="auto" heigth="auto" alt="x">
-        <p>This view visualizes</p>
-            {{ view.content }}
+        {%- if view.perspective == page.name -%}
+          <div class="button"><a href="{{view.url | relative_url }}">{{ view.name }}</a></div>
         {%- endif -%}
-        {% endfor %}
-      <!-- /td>
-    <td class="column-index">
-    {% for perspective in site.perspectives %}
-    <a href="{{ perspective.url | relative_url  }}">
-      {{ perspective.name }}
-    </a></br>    
-    {% endfor %}
-      </td>
-    </tr>
+      {% endfor %}
+    </div>
+  </p>
 
-    </table -->
+  {% for view in site.views %}
+    {%- if view.perspective == page.name -%}
+      <h2>{{ view.name }}</h2>
+      <img src="/assets/images/views/{{view.image}}" width="auto" heigth="auto" alt="x">
+      <p>This view visualizes</p>
+      {{ view.content }}
+    {%- endif -%}
+  {% endfor %}
 
 
-{%- if site.disqus.shortname -%}
-{%- include disqus_comments.html -%}
-{%- endif -%}
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
 
-<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
