@@ -1,5 +1,5 @@
 ---
-layout: release-notes
+layout: page
 title: Documentation Index
 menu:  Docs
 ---

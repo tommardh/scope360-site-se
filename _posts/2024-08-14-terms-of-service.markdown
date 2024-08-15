@@ -2,7 +2,7 @@
 layout: post
 title:  "Terms of Service (Draft)"
 date:   2024-08-14 21:35:25 +0200
-categories: Other
+categories: Draft
 ---
 ## 1. Definitions
 
