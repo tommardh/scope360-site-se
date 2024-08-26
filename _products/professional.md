@@ -7,21 +7,14 @@ summary: Scope360° Professional provides Scope360° functionality to users with
 ---
 # Dear user of Scope360° Professional,
 
-Our aim with the Scope360° is to make your work day easier and that you become more efficient.
-Every year we spend hundreds of hours improving Scope360°. The work includes everything from analysing needs and develop new functions in the product that can create great value for You. In order to be at the forefront and meet expectations, we have released many features.
+For almost 8 years we have put in thousands of hours to develop a tool to make the everyday useage of Jira better. We have done this because we love to make data and tools easier, better and more fun to use.
 
-Examples of features:
+Today we are delighted to see that we have over 6 000 users, globally! More and more people apreciate what Scope360° can do and how it saves time and raien your efficiency.
 
-- **[Query Expansions](/release-note/2024/04/25/Scope360-version-2024.04.25.html)** - expand queries when opening Analyze plan
-- **[Custom Export](/release-note/2023/01/31/Scope360-version-2023.01.31.html)** - Custom exports can be made from Jira
-- **[Issue Details View](/release-note/2023/04/02/Scope360-version-2023.04.02.html)** - view issues inside Scope360°
-- **[Dependency Board](/release-note/2023/01/31/Scope360-version-2023.01.31.html)** - Next generation of the program board is evolving
+As the community of users grow we try to meet Your needs and make Scope360° better, for You.
+We are no longer able to do this probono and have decied to put a price on our masterpiece. We want to be humble and not greeady, We want all of You to keep using Scope360° and a majority of the fee will be directly invested in development- to make your every day use even better!
 
-So far, this work has been completely voluntary and the time we spend has been in our own free time. We are passionate about our product and there is so much work ahead so that we can continue to create the new features we see are needed and in demand.
-
-In time we will have to charge a little bit for You to keep using Scope360°. We are sure that it will be worth it! But til then we hope You will explore and enjoy all the new features Scope360° gives You!
-
-Thank you for the trust!
+We hope You apreciate Scope360° and will spend a few bucks when the time comes.
 
 Best regards,<br>
 The Team behind Scope360°
