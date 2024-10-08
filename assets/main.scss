@@ -78,9 +78,9 @@ html {
     padding: 30px;
     position: sticky;
     top: 0;
-    border-top: 0px!important; 
-}
-
+    border-top: 0px!important;
+  }
+  
 .site-footer {
   background-color: #FDE5C5;
   padding: 30px;
@@ -116,6 +116,7 @@ a.page-link:active { text-decoration: none; }
     color: black;
     text-shadow: -.25px -.25px 0 transparent, 
     .25px .25p transparent;
+    font-size: 15px;
 }
 
  a.page-link:hover {
