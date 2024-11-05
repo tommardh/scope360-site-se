@@ -70,7 +70,7 @@ td {
 }
 
 html {
-  scroll-padding-top: 120px; /* height of sticky header */
+  scroll-padding-top: 142px; /* height of sticky header */
 }
 
 .site-header {
@@ -145,4 +145,12 @@ a.page-link:active { text-decoration: none; }
   border-style: solid;
   border-radius: 4px;
   font-size: small;
+}
+
+.sutton {
+  border-color: #51bbb4;
+  padding: 5px;
+  border-style: solid;
+  border-radius: 4px;
+  font-size: large;
 }
