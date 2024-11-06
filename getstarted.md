@@ -3,19 +3,30 @@ layout: default
 ---
 # Get Started with Scope360°
 
-In summary there are four steps to get started with Scope360° Professional:
+To begin using Scope360° Professional, follow these four key steps:
 
-- Install [Scope360° for Jira](https://chromewebstore.google.com/detail/scope360-for-jira/kbppfmkmcilakibigimbnohnbefifaao)
-- Register the scope360° Account
-- Start the Scope360° Professional Subscription
-- Login in the Scope360° Extension with the Scope360° Account
+1. **Install Scope360° for Jira**  
+Start by downloading the Scope360° Chrome extension from the [Chrome Web Store]((https://chromewebstore.google.com/detail/scope360-for-jira/kbppfmkmcilakibigimbnohnbefifaao)). This extension integrates with Jira, enhancing your project management experience with advanced features.
 
-[Scope360° for Jira](https:scope360.se) is a Chrome extension that is installed from [Chrome Web Store](https://chromewebstore.google.com/detail/scope360-for-jira/kbppfmkmcilakibigimbnohnbefifaao)
+1. **Register for a Scope360° Account**  
+Visit the Scope360° registration page to create an account. Once registered, verify your account to ensure full access to Scope360° services.
 
-The free version is called Scope360° Light and contains a smaller subset of the features, mainly from the Flow Perspective.
+1. **Start the Scope360° Professional Subscription**  
+Scope360° Professional offers a comprehensive suite of tools, available for purchase either directly from scope360.se or within the Scope360° extension. Once your account is verified, you’ll have the option to subscribe to the Professional plan for full functionality.
 
-The full version, Scope360° Professional, can be bought from [https://scope360.se](https://scope360.se) or in Scope360° extension itself. The first step is to register a Scope360° user and when that account is created and verified is it possible to subscribe.
+1. **Log in to Scope360° for Jira with Your Scope360° Account**
+After subscribing, log into the Scope360° Chrome extension with your account credentials. This login will activate your Professional license. If you encounter issues with licensing, try logging out and logging back in to refresh the license status.
 
-By logging in in Scope360° for Jira, the license is activated. If you do not get the right license, try to log out and then log back in again.
+{% capture index %}
+{% include products.md %}
+{% endcapture %}
 
-Please contact [billing@scope360.se](billing@scope360.se) for any support in this process.
+{{ index | markdownify }}
+
+## Contact Information
+
+{% capture index %}
+{% include billing-contact-info.md %}
+{% endcapture %}
+
+{{ index | markdownify }}
