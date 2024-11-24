@@ -24,7 +24,6 @@
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
-              <!-- a href="{{ my_page.url | relative_url }}" {% if page.url == my_page.url %} class="page-link current" {% else %} class="page-link" {% endif %}>{{ my_page.menu | upcase | escape }}</a -->
               <a href="{{ "/" | relative_url }}#{{ my_page.menu}}" {% if page.url == my_page.url %} class="page-link current" {% else %} class="page-link" {% endif %}>{{ my_page.menu | upcase | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
@@ -32,6 +31,6 @@
         </nav>
       {%- endif -%}
     </div>
-    <center><a class="sutton" href="s360User.html" style="pointer-events: none;">Sign Up Now!</a><i> Will soon be available!</i></center>
+    <center><a class="sutton" href="s360User.html">Sign Up Now!</a></center>
   </header>
   
