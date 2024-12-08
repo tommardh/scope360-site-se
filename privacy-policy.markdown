@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Privacy Policy (Draft)"
+title:  "Privacy Policy"
 date:   2024-08-14 21:35:25 +0200
-categories: Draft
+categories: Documentation
 ---
 This Policy explains how we collect, use, disclose, and safeguard your information when you use the Service.
 
