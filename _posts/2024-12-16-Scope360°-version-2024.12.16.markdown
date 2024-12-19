@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Scope360° Version 2024.12.16"
+date:   2024-12-16 22:38:18 +0200
+categories: release-note
+---
+## Generic
+
+- If you need to it is possible to set the Jira credentials in Scope360°
+
+![release-note](/assets/images/release-notes/20241216-01.png)
+
+- Cleanup, refactories and minor bugfixes.
+- The latest valid server version of a Scope360° config is served when opening a new tab or make a reload of the page.
+- Message viewer to handle markdown message splitted in several lines
+
+![release-note-full](/assets/images/release-notes/20241216-04.png)
+
+- Capability to show license expiration info Updated
+
+![release-note](/assets/images/release-notes/20241216-05.png)
+
+- Productname in menu shows Professional if logged in and subscriber to Scope360° Professional
+
+![release-note](/assets/images/release-notes/20241216-01.png)
+
+## Jira Enhacements
+
+- Scope360° menu shows right content based on page in Jira.
+- IssueFamily Section can be shown in a dropdown from the Scope360° menu.
+- Improved handling of edgecases in handling jql queries
+- Do not show assigne and description if the fields are empty in nested issue card
+- Refine Query added option to replace 
+  - 'filter=1234' with the JQL of that
+  - 'filter=1234' with 'filter="name of filter 1234"'
+
+![release-note](/assets/images/release-notes/20241216-02.png)
+
+## Plan Perspective
+
+- Message viewer removed
+
+## Flow Pespective
+
+- Analyze Flow ändrad så att Throughput
+  - shows Start date for the period
+  - no cards included before start time
+  - removes last period i empty 
+
+## Your Scope360° Account
+
+- User app is available for users with Scope360° Professinal or Scope360° Light and the Scope360° Account is used to connect your subscription to Scope360°.
+
+![release-note-full](/assets/images/release-notes/20241216-03.png)
