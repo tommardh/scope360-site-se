@@ -14,7 +14,7 @@ If you wish to continue enjoying the full range of capabilities that Scope360° 
 
 Don’t miss out on the complete Scope360° experience – sign up for the full version [here](/s360User.html)!
 
-Use the Promo Code `FriendsofScope360` before 2024-01-01 to get 75% discount the first three months!
+Use the Promo Code `FriendsofScope360` before 2025-01-01 to get 75% discount the first three months!
 
 Thank you for being a part of our journey, and we look forward to continuing to support your work with Scope360°.
 
