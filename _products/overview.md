@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Overview of Scope360° Products (Draft)
+# Overview of Scope360° Products
 
 {% capture index %}
 {% include products.md %}
@@ -11,33 +11,35 @@ layout: default
 
 ## Perspective Comparison
 
+**Legend** 🟢 Included - 🟨 Partially Included - ❌ Not Included
+
 | Perspective | Scope360° Light | Scope360° Professional | Scope360°Enterprise |
 | :---- | :----: | :----: | :----: |
-| [Flow Perspective](/perspectives/flow.html) | **✔️**/❌ | **✔️** | **✔️** |
-| Plan Perspective | **✔️**/❌ | **✔️** | **✔️** |
-| Forecast Perspective | ❌ | **✔️** | **✔️** |
-| Jira Enhancements | ❌ | **✔️** | **✔️** |
+| [Flow Perspective](/perspectives/flow.html) | 🟨 | 🟢 | 🟢 |
+| Plan Perspective | 🟨 | 🟢 | 🟢 |
+| Forecast Perspective | ❌ | 🟢 | 🟢 |
+| Jira Enhancements | ❌ | 🟢 | 🟢 |
 
 ## Feature Comparison
 
+**Legend** 🟢 Included - 🟨 Partially Included - ❌ Not Included
+
 | Perspective | Feature | Scope360° Light | Scope360° Professional | Scope360°Enterprise |
 | :---- | :---- |:----: | :----: | :----: |
+| **Flow Perspective** | Flow Perspective | 🟨 | 🟢 | 🟢 |
 |  | | | | |
-| **Flow Perspective** | Flow Perspective | **✔️** | **✔️** | **✔️** |
+| **Plan Perspective** | Program Board | 🟢 | 🟢 | 🟢 |
+| | Iteration Report | 🟢 | 🟢 | 🟢 |
+| | Status Report | ❌ | 🟢 | 🟢 |
+| | Pivot Report | ❌ | 🟢 | 🟢 |
+| | Links Report | ❌ | 🟢 | 🟢 |
+| | Report Configuration | ❌ | 🟢 | 🟢 |
 |  | | | | |
-| **Plan Perspective** | Program Board | **✔️** | **✔️** | **✔️** |
-| | Iteration Report | **✔️** | **✔️** | **✔️** |
-| | Status Report | ❌ | **✔️** | **✔️** |
-| | Pivot Report | ❌ | **✔️** | **✔️** |
-| | Report Configuration | ❌ | **✔️** | **✔️** |
+| **Forecast Perspective** | Monte Carlo | ❌ | 🟢 | 🟢 |
 |  | | | | |
-| **Forecast Perspective** | | ❌ | **✔️** | **✔️** |
+| **Jira Enhancements** | Jira Query Builder | 🟨 | 🟢 | 🟢 |
+| | Jira Issue Details Viewer | ❌ | 🟢 | 🟢 |
+| | Confluence Issue Details Viewer | ❌ | 🟢 | 🟢 |
 |  | | | | |
-| **Jira Enhancements** | Jira Query Builder | ❌ | **✔️** | **✔️** |
-| | Jira Issue Details Viewer | ❌ | **✔️** | **✔️** |
-| | Confluence Issue Details Viewer | ❌ | **✔️** | **✔️** |
-| | Trace ancestry | ❌ | ❌ | **✔️** |
-|  | | | | |
-| **General** | Standard Config | **✔️** | ❌ | **✔️** |
-| | Personal Config | ❌ | **✔️** | ❌ |
-| | Common Company Config | ❌ | ❌ | **✔️** |
+| **General** | Standard Config | 🟢 | 🟢 | ❌ |
+| | Common Company Config | ❌ | ❌ | 🟢 |
