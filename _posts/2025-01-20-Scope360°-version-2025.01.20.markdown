@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2025.01.19 <-- Next"
-date:   2025-01-19 21:10:32 +0200
+title:  "Scope360° Version 2025.01.20 <-- Next"
+date:   2025-01-20 21:10:32 +0200
 categories: release-note
 ---
 ## General
@@ -10,11 +10,11 @@ categories: release-note
 - Debug options for Jira content scripts enables some debugging in production environment
 - Added button for get started in logout screen in Scope360° User App for https://scope360.se
 
-![release-note-full](/assets/images/release-notes/20250119-01.png)
+![release-note-full](/assets/images/release-notes/20250120-01.png)
 
 
 ## Plan Perspective
 
 - New renderer for viz in links
 
-![release-note-full](/assets/images/release-notes/20250119-02.png)
+![release-note-full](/assets/images/release-notes/20250120-02.png)
