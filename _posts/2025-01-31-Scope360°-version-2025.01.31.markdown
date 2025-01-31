@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Scope360° Version 2025.01.31 <-- Next"
+date:   2025-01-31 22:35:01 +0200
+categories: release-note
+---
+## General
+
+- Enhanced replace in config parser to allow for escaped slash in regexp
+
+```javascript
+'parser': {
+    'match': 'replace',
+    'filter': '.*\\\/([A-Z]+-[0-9]+).*/$1',
+    'select': 'first'
+}
+```
+
+- Now possible to use fields with multiple lines in replace functionality in config parser
+
+## Jira Enhancements
+
+- Fixed bug where Jira Instance url was not correct and genereted errors
