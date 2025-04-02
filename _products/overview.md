@@ -13,7 +13,7 @@ layout: default
 
 **Legend** 🟢 Included - 🟨 Partially Included - ❌ Not Included
 
-| Perspective | Scope360° Light (Free Version) | Scope360° Professional ([$9,90/month](/getstarted)) | Scope360°Enterprise ([contact us](mailto:info@scope360.se)) |
+| Perspective | Scope360° Light (Free Version) | Scope360° Professional ([€6,90/month](/getstarted)) | Scope360°Enterprise ([contact us](mailto:info@scope360.se)) |
 | :---- | :----: | :----: | :----: |
 | [Flow Perspective](/perspectives/flow.html) | 🟨 | 🟢 | 🟢 |
 | Plan Perspective | 🟨 | 🟢 | 🟢 |
@@ -24,7 +24,7 @@ layout: default
 
 **Legend** 🟢 Included - 🟨 Partially Included - ❌ Not Included
 
-| Perspective | Feature | Scope360° Light (Free Version) | Scope360° Professional ([$9,90/month](/getstarted)) | Scope360°Enterprise ([contact us](mailto:info@scope360.se)) |
+| Perspective | Feature | Scope360° Light (Free Version) | Scope360° Professional ([€6,90/month](/getstarted)) | Scope360°Enterprise ([contact us](mailto:info@scope360.se)) |
 | :---- | :---- |:----: | :----: | :----: |
 | **Flow Perspective** | Flow Perspective | 🟨 | 🟢 | 🟢 |
 |  | | | | |
