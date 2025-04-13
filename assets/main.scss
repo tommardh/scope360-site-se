@@ -4,15 +4,17 @@
 @import "minima";
 
 :root {
-	--s360-main-color: #4A7072;
-	--s360-dark-main-color: #1A3132;
-	--s360-light-main-color: #D0DDDE;
+	--s360-main-color: #fde5c5;
+	--s360-dark-main-color: #f7a940;
+	--s360-dark-main-color-alpha: #f7a9404d;
+	--s360-light-main-color: #FEF6EC;
 	--s360-secondary-color: #68606F;
 	--s360-dark-secondary-color: #756F7A;
 	--s360-light-secondary-color: #CCCCCC;
-	--s360-focus-color: #CD884B;
-	--s360-dark-focus-color: #A44D21;
-	--s360-light-focus-color: #E58351;
+	--s360-focus-color: #caeae8;
+	--s360-dark-focus-color: #51bbb4;
+	--s360-dark-focus-color-alpha: #51bbb44d;
+	--s360-light-focus-color: #edf8f7;
 	--s360-black-color: #000;
 	--s360-white-color: #fff;
 	--s360-atrisk-color: #f44336;
@@ -53,7 +55,8 @@ td {
   border-right: 1rem solid white!important;
   border-top: 0px!important;
   border-bottom: 0px!important;
-  background-color: #FEF6EC;
+  // background-color: #FEF6EC;
+  background: linear-gradient(60deg, var(--s360-light-main-color), var(--s360-white-color));
   padding-left: 0px!important;
   padding-right: 0px!important;
   padding-top: 0px!important;
@@ -65,9 +68,6 @@ td {
   color: black;
 }
 
-.site-nav {
-  background-color: #FDE5C5;
-}
 
 html {
   scroll-padding-top: 142px; /* height of sticky header */
@@ -75,6 +75,7 @@ html {
 
 .site-header {
     background-color: #FDE5C5;
+    background: linear-gradient(60deg, var(--s360-main-color), var(--s360-focus-color));
     padding: 30px;
     position: sticky;
     top: 0;
@@ -83,6 +84,7 @@ html {
   
 .site-footer {
   background-color: #FDE5C5;
+  background: linear-gradient(60deg, var(--s360-main-color), var(--s360-focus-color));
   padding: 30px;
   color: black;
 }
@@ -148,10 +150,16 @@ a.page-link:active { text-decoration: none; }
 }
 
 .sutton {
-  border-color: #51bbb4;
-  padding: 5px;
-  border-style: solid;
-  border-radius: 4px;
-  border-width: thick;
+  padding: 10px;
   font-size: large;
+  background-color: var(--s360-dark-main-color);
+  border-radius: 8px;
+  color: white!important;
+  text-decoration: none;
 }
+
+.sutton:hover {
+  background-color: var(--s360-black-color);
+  color: white!important;
+}
+
