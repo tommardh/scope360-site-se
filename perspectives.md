@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Perspectives
-menu: Perspectives
 ---
 In addition to the three perspectives described briefly below, **Scope360°** offers assistance in improving the ability to navigate in JIRA as well as creating the queries needed to view the different perspectives.
 

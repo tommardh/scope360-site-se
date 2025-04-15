@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact Us
-menu: Contact
 ---
 Please contact us if you have any questions or want to know more about Scope360°
 

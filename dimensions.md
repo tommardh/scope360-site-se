@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dimensions
-menu: Dimensions
 ---
 ![logo](assets/images/logos/scope360logo.svg)
 

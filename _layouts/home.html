@@ -18,16 +18,25 @@ layout: default
                     {% for perspective in site.perspectives %}
                         <li><a href="{{perspective.url | relative_url }}">{{ perspective.name }}</a></li>
                     {% endfor %}
+                    <br>
                     {%- for c in site.categories -%}
-                        <h2>{{ c[0] }}</h2>
-                        {%- for p in c[1] -%}
-                            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-                        {%- endfor -%}
+                        {%- if c[0] != "release-note" -%}
+                            <h2>{{ c[0] }}</h2>
+                            {%- for p in c[1] -%}
+                                <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+                            {%- endfor -%}
+                        {%- endif -%}
                     {%- endfor -%}
+                    <br>
                 {%- endif -%}
-                <hr>
             {%- endif -%}   
         {%- endfor -%}
+        <h2>Other</h2>
+        <li><a href="/release-notes.html">Release Notes</a></li>
+        <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="/terms-of-service.html">Terms of Service</a></li>
+        <br>
+        <hr>
     </div>
 
 

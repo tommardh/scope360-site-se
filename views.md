@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Views
-menu: Views
 ---
 | **Dependency Board** | **Status Report** | **Plan** |
 | [![large](assets/images/views/plan.png)](views/dependency-board.html) | [![large](assets/images/views/status.png)](views/status.html) | [![large](assets/images/views/roadmap.png)](views/roadmap.html) |
