@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2025.05.03 <-- Next"
-date:   2025-05-03 23:09:11 +0200
+title:  "Scope360° Version 2025.05.04 <-- Next"
+date:   2025-05-04 18:09:11 +0200
 categories: release-note
 ---
 ## General
@@ -9,7 +9,7 @@ categories: release-note
 - Improved security of https calls with accesstokens.
 - Updated when config documentation should be shown.
 
-![release-note-full](/assets/images/release-notes/20250503-01.png)
+![release-note-full](/assets/images/release-notes/20250504-01.png)
 
 - Scope360° now always reloads on login to secure right license is used.
 - The right license is shown in all views
