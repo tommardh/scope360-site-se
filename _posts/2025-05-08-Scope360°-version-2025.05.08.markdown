@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2025.05.08 <-- Next"
+date:   2025-05-08 17:22:12 +0200
+categories: release-note
+---
+## General
+
+- Fix with improved security of https calls with accesstokens
