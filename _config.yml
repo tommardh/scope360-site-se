@@ -63,3 +63,6 @@ collections:
     output: true
   products:
     output: true
+  manual:
+    output: true
+    permalink: /manual/:path/
