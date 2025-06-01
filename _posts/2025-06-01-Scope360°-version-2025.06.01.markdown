@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Scope360° Version 2025.06.01 <-- Next"
+date:   2025-06-01 23:04:32 +0200
+categories: release-note
+---
+## General
+
+- Get current user now works also when email attribute is not set
+- Non API Access is handled more gracefully
+- Some bug fixes and re-factories made
+
+## Jira Enhancements
+
+- It is now possible to add soft linked issues from Refine Query menu
+
+![release-note-full](/assets/images/release-notes/20250601-01.png)
+
+![release-note-full](/assets/images/release-notes/20250601-02.png)
+
+- Nested issue search refactored
+- [custom issue export](/release-note/2023/01/31/Scope360-version-2023.01.31.html) now generates clickable id for HTML export
+- Addded more custom exports formats: `table.json` and `aligned.txt`
+
+## Plan Perspective
+
+- Links can now expand queries in the same way as when Analyze plan is opened
