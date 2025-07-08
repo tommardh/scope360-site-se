@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2025.07.09 <-- Next"
+date:   2025-07-09 00:00:11 +0200
+categories: release-note
+---
+## General
+
+- Fix so that jql search works even if the deprecated rest api call is removed.
