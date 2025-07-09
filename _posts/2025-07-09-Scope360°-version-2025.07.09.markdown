@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scope360° Version 2025.07.09 <-- Next"
+title:  "Scope360° Version 2025.07.09"
 date:   2025-07-09 00:00:11 +0200
 categories: release-note
 ---
