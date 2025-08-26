@@ -1,0 +1,1 @@
+function o(){n()}function n(){chrome.runtime.onMessage.addListener((e,t,i)=>{console.log("Content script received message:",e),e&&e.type==="ping-scope360"&&i({active:!0})})}export{o as initializeContentScriptService};
