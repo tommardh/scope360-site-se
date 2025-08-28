@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scope360° Version 2025.08.26 <-- next"
-date:   2025-08-26 08:23:23 +0200
+title:  "Scope360° Version 2025.08.28 <-- next"
+date:   2025-08-28 08:23:23 +0200
 categories: release-note
 ---
 ## General
@@ -10,12 +10,12 @@ categories: release-note
 - Improved implementation of graphical profile
 - It is now possible to set if it should be optional, required or disabled for users to log in. Default behaviour is optional. That means that all users now have the Your Scope360° Account button.
 
-![release-note](/assets/images/release-notes/20250826-02.png)
+![release-note](/assets/images/release-notes/20250828-02.png)
 
 - When a user logs in or out, all tabs with Scope360° are reloaded.
 - It is now possible to manage your subscription from a button in Scope360° User App.
 
-![release-note](/assets/images/release-notes/20250826-01.png)
+![release-note](/assets/images/release-notes/20250828-01.png)
 
 - Scope360° functionality will be disabled when user is not logged in and login is required
 - Updated issue parsing to Handle Jira instances sending an object in place  of Epic Link
