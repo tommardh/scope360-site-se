@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Scope360° Version 2025.09.07 <-- next"
+date:   2025-09-07 18:37:15 +0200
+categories: release-note
+---
+## General
+
+- Improved displayoptions implementation.
+
+## Confluence Enhancements
+
+- Right click issue links in confluence works again. It opens up a view of the issue without having to open the issue in Jira.
+
+![release-note](/assets/images/release-notes/20250907-01.png)
