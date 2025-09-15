@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Scope360° Version 2025.09.15 <-- Next"
+date:   2025-09-15 22:33:29 +0200
+categories: release-note
+---
+## General
+
+- Added logic for consent on updated user agreements. Scope360° functionality is disabled if consent is not given.
+
+![release-note-full](/assets/images/release-notes/20250915-01.png)
+
+- Updated text in menu for Scope360° User App
+
+![release-note](/assets/images/release-notes/20250915-02.png)
+
+![release-note](/assets/images/release-notes/20250915-03.png)
+
+## Plan Perspective
+
+- Enabled page grouping in status report. That means that it is noww possible to get all issue types visible in the status report at the same time if no page grouping is set or page grouping is set to something different than type
+
+![release-note-full](/assets/images/release-notes/20250915-04.png)
