@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Scope360° Version 2025.09.19 <-- Next"
+date:   2025-09-19 12:14:23 +0200
+categories: release-note
+---
+## General
+
+- Added clarification in Scope360° User App:
+
+![release-note-full](/assets/images/release-notes/20250919-01.png)
+
+Used link: [Scope360° Professional](https://scope360.se/pricing)
