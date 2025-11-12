@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Scope360° Version 2025.11.10 <-- Next"
+date:   2025-11-10 23:45:43 +0200
+categories: release-note
+---
+## General
+
+Parser capability improved. Post-processor in issue parser now handles combining allready parsed values.
+
+## Flow Perspective
+
+- Upgraded to newer versions of third party dependencies to increase securitym
+- All views updated. See images below
+- Removed the limitation of only being able to look one year into the past, as we were already allowing this for the initial board anyways.
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-01.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-02.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-03.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-04.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-05.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251110-06.png)
