@@ -10,8 +10,8 @@ Parser capability improved. Post-processor in issue parser now handles combining
 
 ## Flow Perspective
 
-- Upgraded to newer versions of third party dependencies to increase securitym
-- All views updated. See images below
+- Upgraded to newer versions of third party dependencies to increase security.
+- All views updated. See images below.
 - Removed the limitation of only being able to look one year into the past, as we were already allowing this for the initial board anyways.
 
 * * *
