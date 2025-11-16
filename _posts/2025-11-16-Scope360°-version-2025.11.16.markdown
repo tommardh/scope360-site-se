@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scope360° Version 2025.11.16 <-- Next"
+date:   2025-11-16 22:49:00 +0200
+categories: release-note
+---
+## General
+
+- Fixed a bug when a user could be logged out from Scope360° even if user did not log out
