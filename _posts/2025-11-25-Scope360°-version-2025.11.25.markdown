@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Scope360° Version 2025.11.25"
+date:   2025-11-25 23:19:11 +0200
+categories: release-note
+---
+## General
+
+- This relaese contains mostly updates to the Flow Perspective.
+
+Updated release notes will soon be published.
+
