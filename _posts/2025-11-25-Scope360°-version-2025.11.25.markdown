@@ -4,9 +4,54 @@ title:  "Scope360° Version 2025.11.25"
 date:   2025-11-25 23:19:11 +0200
 categories: release-note
 ---
-## General
 
-- This relaese contains mostly updates to the Flow Perspective.
+## Flow Perspective
 
-Updated release notes will soon be published.
+- All views updated with improved user experience. See images below.
+
+<br>
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-01.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-02.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-03.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-04.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-05.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-06.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-07.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-08.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-09.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-10.png)
+
+* * *
+
+![release-note-full](/assets/images/release-notes/20251125-11.png)
 
