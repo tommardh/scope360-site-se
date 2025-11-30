@@ -3,7 +3,8 @@ layout: page
 title: INTRODUCTION TO SCOPE360°
 menu: Home
 ---
-­**a tool that visualizes plans, flow and forecasts in Jira from different perspectives**
+
+**a tool that visualizes plans, flow and forecasts in Jira from different perspectives**
 
 ## Main Website
 
@@ -14,6 +15,8 @@ menu: Home
 ## This Site
 
 Contains documentation, release notes and some support to the Scope360° services.
+
+­<a class="feedbackbutton" href="mailto:hello@scope360.se?subject=Feedback%20-%20Scope360°">Provide feedback on Scope360°</a>
 
 ## Scope360° Introduction
 

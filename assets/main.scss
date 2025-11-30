@@ -163,3 +163,19 @@ a.page-link:active { text-decoration: none; }
   color: white!important;
 }
 
+.feedbackbutton {
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: medium;
+  background-color: var(--s360-dark-focus-color);
+  border-radius: 8px;
+  color: white!important;
+  text-decoration: none;
+  float: right;
+}
+
+.feedbackbutton:hover {
+  background-color: var(--s360-black-color);
+  color: white!important;
+}
+

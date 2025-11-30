@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+{% if page.categories contains "release-note" %}
+    <a class="feedbackbutton" href="mailto:hello@scope360.se?subject=Feedback%20-%20{{ page.title | uri_escape }}">Provide feedback on this release</a>
+{% endif %}
 <h1>{{ page.title }}</h1>
+
 <p>{{ page.date | date_to_string }}</p>
 
 {% if page.categories contains "release-note" %}
