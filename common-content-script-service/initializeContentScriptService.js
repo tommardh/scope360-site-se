@@ -1,1 +1,14 @@
-function o(){n()}function n(){chrome.runtime.onMessage.addListener((e,t,i)=>{console.log("Content script received message:",e),e&&e.type==="ping-scope360"&&i({active:!0})})}export{o as initializeContentScriptService};
+function initializeContentScriptService() {
+  initializeContentScriptMessageHandler();
+}
+function initializeContentScriptMessageHandler() {
+  chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    console.log("Content script received message:", message);
+    if (message && message.type === "ping-scope360") {
+      sendResponse({ active: true });
+    }
+  });
+}
+export {
+  initializeContentScriptService
+};
